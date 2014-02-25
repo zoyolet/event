@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b0fa75b-2253-49a6-a049-161503e99ceb" name="Default" comment="" />
+    <ignored path="game01.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="game01" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Zealot.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Zealot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="0" selection-start="2786" selection-end="2786" vertical-scroll-proportion="0.0" vertical-offset="1360" max-vertical-offset="2652">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/MyGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="33" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/HomeScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="39" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1224">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/TestScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="44" selection-start="2957" selection-end="2957" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="2652">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sp.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="135" column="20" selection-start="4243" selection-end="4243" vertical-scroll-proportion="0.6040609" vertical-offset="1853" max-vertical-offset="2465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/core/pom.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/HomeScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/TestScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/Spite/SpriteImage.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/Spite/Sprite.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/Spite/SpriteLoader.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteImage.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sprite.java" />
+        <option value="$PROJECT_DIR$/assets/src/main/resources/assets/images/zealot.json" />
+        <option value="$PROJECT_DIR$/assets/src/main/resources/assets/images/sp.json" />
+        <option value="$PROJECT_DIR$/assets/src/main/resources/assets/images/hp.json" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/DebugDrawBox2D.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/MyGame.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/HomeScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/TestScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Zealot.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="html" />
+        <option value="java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="MyGame Core" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="MyGame Core" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sut.game01.core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sut.game01.core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sut.game01.core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets.images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game01-assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets.images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="editor.preferences.import" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\cygwin\home\Boom\event\game01\core\src\main\java\sut\game01\core\spite" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0fa75b-2253-49a6-a049-161503e99ceb" name="Default" comment="" />
+      <created>1390287449011</created>
+      <updated>1390287449011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19410875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22205438" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31928688" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/zealot.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="62" selection-start="0" selection-end="1595" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/sp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="62" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/TestScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="27" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="4654" selection-end="4654" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3417" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/playn/playn-core/1.8/playn-core-1.8-sources.jar!/playn/core/PlayN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="3774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="84" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="3604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="5" selection-start="2825" selection-end="2825" vertical-scroll-proportion="0.0" vertical-offset="1751" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/hp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="63" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Hp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Zealot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="29" selection-start="2504" selection-end="2504" vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/zealot.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="64" selection-start="1586" selection-end="1586" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="4654" selection-end="4654" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3417" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/playn/playn-core/1.8/playn-core-1.8-sources.jar!/playn/core/PlayN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="3774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="84" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="3604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Zealot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/zealot.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="64" selection-start="1586" selection-end="1586" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="4654" selection-end="4654" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3417" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/playn/playn-core/1.8/playn-core-1.8-sources.jar!/playn/core/PlayN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="3774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="84" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="3604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/HomeScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/TestScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="43" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/MyGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="58" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="128" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/HomeScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="44" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/TestScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="38" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/MyGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="34" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game01.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="28" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/game01-core.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="581" selection-end="581" vertical-scroll-proportion="0.17320262" vertical-offset="183" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="723" column="0" selection-start="26932" selection-end="26932" vertical-scroll-proportion="0.0" vertical-offset="11538" max-vertical-offset="33898" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/playn/playn-core/1.8/playn-core-1.8-sources.jar!/playn/core/json/JsonParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="2374" selection-end="2374" vertical-scroll-proportion="0.3315508" vertical-offset="879" max-vertical-offset="7922" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/playn/playn-core/1.8/playn-core-1.8-sources.jar!/playn/core/json/JsonImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.3315508" vertical-offset="539" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Hp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/hp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="63" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/playn/playn-core/1.8/playn-core-1.8-sources.jar!/playn/core/PlayN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1630" selection-end="1630" vertical-scroll-proportion="-0.6149871" vertical-offset="782" max-vertical-offset="3502" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="740" selection-end="740" vertical-scroll-proportion="-0.6149871" vertical-offset="391" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/SpriteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="4654" selection-end="4654" vertical-scroll-proportion="-0.878553" vertical-offset="2244" max-vertical-offset="3077" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/sut/game01/java/MyGameJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="341" selection-end="341" vertical-scroll-proportion="0.4392765" vertical-offset="0" max-vertical-offset="387" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/DebugDrawBox2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="37" selection-start="2015" selection-end="2015" vertical-scroll-proportion="-0.28764805" vertical-offset="1156" max-vertical-offset="4879">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="84" selection-start="1115" selection-end="1115" vertical-scroll-proportion="-0.6111111" vertical-offset="561" max-vertical-offset="3213" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/MyGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="33" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/zealot.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="61" selection-start="614" selection-end="614" vertical-scroll-proportion="0.5177665" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/main/resources/assets/images/sp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="62" selection-start="424" selection-end="424" vertical-scroll-proportion="0.34517765" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/HomeScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="39" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/screen/TestScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="44" selection-start="2957" selection-end="2957" vertical-scroll-proportion="0.0" vertical-offset="641" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Zealot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="0" selection-start="2786" selection-end="2786" vertical-scroll-proportion="0.0" vertical-offset="1216" max-vertical-offset="2465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/sut/game01/core/spite/Sp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="20" selection-start="4243" selection-end="4243" vertical-scroll-proportion="0.6040609" vertical-offset="1853" max-vertical-offset="2465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>game01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.allen-sauer.gwt.voices:gwt-voices:3.2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="test -Pjava" />
+  </component>
+</project>
+
