@@ -75,27 +75,6 @@ public class Zealot {
             }
 
         });
-        PlayN.keyboard().setListener(new Keyboard.Listener() {
-            @Override
-            public void onKeyDown(Keyboard.Event event) {
-
-            }
-
-            @Override
-            public void onKeyTyped(Keyboard.TypedEvent event) {
-
-            }
-
-            @Override
-            public void onKeyUp(Keyboard.Event event) {
-                if(event.key()== Key.A){
-                    state = State.SKILL;
-                    body.applyForce(new Vec2(-500f,0f),body.getPosition());
-                    spriteIndex =-1;
-                    e=0;
-                }
-            }
-        });
     }
     public void update(int delta){
         if(!hasLoaded)return;

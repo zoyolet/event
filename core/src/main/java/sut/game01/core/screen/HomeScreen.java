@@ -3,11 +3,14 @@ package sut.game01.core.screen;
 import playn.core.Font;
 import playn.core.Image;
 import playn.core.ImageLayer;
+import playn.core.Pointer;
 import playn.core.util.Callback;
-import react.UnitSlot;
 import tripleplay.game.ScreenStack;
 import tripleplay.game.UIScreen;
-import tripleplay.ui.*;
+import tripleplay.ui.Label;
+import tripleplay.ui.Root;
+import tripleplay.ui.SimpleStyles;
+import tripleplay.ui.Style;
 import tripleplay.ui.layout.AxisLayout;
 
 import static playn.core.PlayN.assets;
@@ -48,19 +51,33 @@ public class HomeScreen extends UIScreen {
         root = iface.createRoot(
             AxisLayout.vertical().gap(15),
             SimpleStyles.newSheet(),layer);
-        root.addStyles(Style.BACKGROUND
-        .is(Background.bordered(0xFFCCCCCC,0xFF99CCFF,5)
-        .inset(5,10)));
-        root.setSize(width(),height());
-
-        root.add(new Label("Dokapon Pocket")
-        .addStyles(Style.FONT.is(HomeScreen.TITLE_FONT)));
-
-        root.add(new Button("Start").onClick(new UnitSlot() {
+        Image bgImage = assets().getImage("images/basketballfabric.png");
+        ImageLayer bgLayer = graphics().createImageLayer(bgImage);
+        Image bgImage2 = assets().getImage("images/time.png");
+        ImageLayer bgLayer2 = graphics().createImageLayer(bgImage2);
+        Image bgImage3 = assets().getImage("images/speed.png");
+        ImageLayer bgLayer3 = graphics().createImageLayer(bgImage3);
+        bgLayer2.setTranslation(150f,270f);
+        bgLayer3.setTranslation(350f,270f);
+        bgLayer2.addListener(new Pointer.Adapter(){
             @Override
-            public void onEmit() {
+            public void onPointerEnd(Pointer.Event event) {
+                super.onPointerEnd(event);
                 ss.push(new TestScreen(ss));
             }
-        }));
+        });
+        bgLayer3.addListener(new Pointer.Adapter(){
+            @Override
+            public void onPointerEnd(Pointer.Event event) {
+                super.onPointerEnd(event);
+                ss.push(new TestScreen2(ss));
+            }
+        });
+        root.layer.add(bgLayer);
+        root.setSize(width(),height());
+        root.add(new Label("Basketball Crazy")
+        .addStyles(Style.FONT.is(HomeScreen.TITLE_FONT)));
+        layer.add(bgLayer2);
+        layer.add(bgLayer3);
     }
 }

@@ -1,0 +1,7 @@
+{
+"urls": ["images/sprites/basketball25.png"],
+"sprites": [
+    {"id": "walk_1", "url":0, "x":0, "y":0, "w":25, "h":25}
+    ]
+
+}

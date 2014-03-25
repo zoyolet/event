@@ -26,6 +26,11 @@
     <profile>
       <id>android</id>
       <modules><module>android</module></modules>
+      <properties>
+        <android.sdk.path>
+          c:\dev\android\sdk
+        </android.sdk.path>
+      </properties>
     </profile>
     <profile>
       <id>ios</id>
